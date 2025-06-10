@@ -7,5 +7,6 @@ if 1<= a <=Max_value and 1<= b <=Max_value:
     print(a+b)
     print(a-b)
     print(a*b)
+    print(a/b)
 else:
     print("Invalid Range")
